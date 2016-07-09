@@ -24,4 +24,8 @@ A C++ implementation of the winner-takes-all clustering algorithm to approximate
 ####2 Colors:
 ![2](/examples/output2.jpg)
 
+        Usage: NumberOfClusters learningRate filename
+        
+**note** a good learning rate value is small, such as 0.01
+
 
