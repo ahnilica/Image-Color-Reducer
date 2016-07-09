@@ -23,3 +23,5 @@ A C++ implementation of the winner-takes-all clustering algorithm to approximate
 
 ####2 Colors:
 ![2](/examples/output2.jpg)
+
+
