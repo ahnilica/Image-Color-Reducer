@@ -3,17 +3,23 @@ A C++ implementation of the winner-takes-all clustering algorithm to approximate
 
 ##Results
 
-original Image:
-![Original](/flowers.jpg)
-64 Colors:
-![64](/examples/output64.jpg)
-32 Colors:
-![32](/examples/output32.jpg)
-16 Colors:
-![16](/examples/output16.jpg)
-8 Colors:
-![8](/examples/output8.jpg)
-4 Colors:
-![4](/examples/output4.jpg)
-2 Colors:
-![2](/examples/output2.jpg)
+    original Image:
+    ![Original](/flowers.jpg)
+    
+    64 Colors:
+    ![64](/examples/output64.jpg)
+    
+    32 Colors:
+    ![32](/examples/output32.jpg)
+    
+    16 Colors:
+    ![16](/examples/output16.jpg)
+    
+    8 Colors:
+    ![8](/examples/output8.jpg)
+    
+    4 Colors:
+    ![4](/examples/output4.jpg)
+    
+    2 Colors:
+    ![2](/examples/output2.jpg)
